@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(black, blue) no-repeat;
+    color: white;
+}
+main {
+    padding: 4em;
+    border-radius: 1em;
+}
+.container {
+    display: flex;
+    flex-flow: column;
+}
+#show {
+    align-self: center;
+}

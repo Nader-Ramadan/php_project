@@ -1,0 +1,16 @@
+form {
+    display: flex;
+    flex-flow: column;
+    gap: 1em;
+    background: green;
+    padding: 2em;
+    border-radius: 1em;
+    display: none;
+}
+input {
+    padding: 1em 2em;
+    border-radius: 0.5em;
+}
+select {
+    align-self: flex-start;
+}
